@@ -1,0 +1,10 @@
+# Unity3D .gitignore file.
+
+*.csproj
+*.pidb
+*.sln
+*.userprefs
+Library
+Temp
+Assets/-tk2d
+Assets/Resources/tk2d/*
